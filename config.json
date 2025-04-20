@@ -1,0 +1,8 @@
+{
+    "fred_api_key": "82d409501103259bdf36d073dca65469",
+    "update_frequency": {
+        "market": "daily",
+        "bonds": "daily",
+        "indicators": "weekly"
+    }
+}
